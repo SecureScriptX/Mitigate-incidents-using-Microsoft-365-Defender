@@ -1,0 +1,18 @@
+Microsoft Secure Score serves as a quantifiable measure of an organization's security posture, with a higher score indicating a greater implementation of security improvements. This score is accessible through the Microsoft Defender portal.
+
+Adhering to the Secure Score recommendations is crucial for fortifying your organization against potential threats. Utilizing the centralized dashboard in the Microsoft Defender portal, organizations can actively monitor and enhance the security of their Microsoft 365 identities, applications, and devices.
+
+The Microsoft Secure Score provides organizations with comprehensive visualizations of metrics and trends, seamless integration with other Microsoft products, score comparisons with similar entities, and additional features. The score can also reflect instances where third-party solutions have addressed recommended actions.
+
+The products covered by Secure Score currently include:
+
+- Microsoft 365 (including Exchange Online)
+- Microsoft Entra ID
+- Microsoft Defender for Endpoint
+- Microsoft Defender for Identity
+- Defender for Cloud Apps
+- Microsoft Teams
+
+Furthermore, organizations have the flexibility to designate improvement actions as covered by a third party or alternative mitigation strategies.
+
+To enhance your Secure Score, the Improvement actions tab lists security recommendations targeting potential attack surfaces. Each recommendation is accompanied by its status (such as to address, planned, risk accepted, resolved through third party, resolved through alternate mitigation, and completed). This tab facilitates easy searching, filtering, and grouping of all improvement actions for efficient management and implementation.
